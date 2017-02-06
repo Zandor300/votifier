@@ -4,7 +4,7 @@ Votifier is a Bukkit plugin whose purpose is to be notified (aka *votified*) whe
 
 ## About this fork
 
-This fork has been updated to use the new 1.8.8-R0.1-SNAPSHOT Spigot-api instead of the hold 1.7.9 Bukkit one.
+This fork has been updated to use the new 1.8.8-R0.1-SNAPSHOT Spigot-api instead of the old 1.7.9 Bukkit one.
 
 ## Configuring Votifier
 
